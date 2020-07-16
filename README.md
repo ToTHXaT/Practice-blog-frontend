@@ -70,6 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-#Integration details
+# Integration details
 
 Results of `npm run build` in build directory is putted to the nginx static folder 
