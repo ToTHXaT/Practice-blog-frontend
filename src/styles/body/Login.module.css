@@ -1,0 +1,27 @@
+.login_form {
+    margin : 10px 30% 10px 30%;
+
+    display : grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px 20px 50px 20px 50px;
+
+}
+
+
+.username {
+    grid-row-start : 1;
+    grid-row-end : 2;
+}
+
+.password {
+    grid-row-start : 3;
+    grid-row-end : 4;
+}
+
+
+.submit {
+    grid-row-start : 5;
+    grid-row-end : 6;
+    width : 200px;
+    justify-self: center;
+}

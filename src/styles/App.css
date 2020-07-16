@@ -1,0 +1,14 @@
+a {
+    user-select: none;
+    text-decoration: none;
+}
+
+html {
+    margin : 0;
+    padding : 0;
+}
+
+body {
+    margin : 0;
+    padding : 0;
+}

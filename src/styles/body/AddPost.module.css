@@ -1,0 +1,19 @@
+.addpost_form {
+    margin : 10px 30% 10px 30%;
+    display : grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px 20px 150px 20px 50px;
+}
+
+.title {
+    grid-row-start: 1;
+}
+
+.body {
+    grid-row-start: 3;
+    height : 100%;
+}
+
+.submit {
+    grid-row-start : 5;
+}

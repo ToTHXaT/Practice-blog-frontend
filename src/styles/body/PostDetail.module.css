@@ -1,0 +1,43 @@
+.edit {
+    background-color: rgb(241, 231, 173);
+    margin : 10px 30% 10px 30%;
+}
+
+.view {
+    margin : 10px 30% 10px 30%;
+    background-color: rgb(241, 231, 173);
+}
+
+
+.view .title {
+    text-align: center;
+}
+
+.view .pub_date {
+    color : rgb(0, 97, 129);
+}
+
+.view .body {
+}
+
+.edit .title {
+    display : block;
+    margin-bottom: 10px;
+}
+
+.edit .body {
+    display : block;
+    margin-bottom : 10px;
+}
+
+.edit .update {
+    display : block;
+    margin-bottom : 10px;
+    background-color : yellow;
+}
+
+.edit .delete {
+    display : block;
+    margin-bottom : 10px;
+    background-color : red;
+}
